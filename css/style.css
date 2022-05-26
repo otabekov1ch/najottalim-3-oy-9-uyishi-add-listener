@@ -1,0 +1,10 @@
+.show-screen {
+    width: 500px !important;
+    border: 1px solid;
+}
+form {
+    width: 400px;
+    height: 400px;
+    padding: 8px;
+    border: 1px solid rgb(196, 196, 196);
+}
